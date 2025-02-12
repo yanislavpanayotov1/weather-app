@@ -16,7 +16,7 @@ Check out the live version of the app: [Weather App Demo](https://weather-app-ya
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (ES6+), React (if applicable)
+- **Frontend**: HTML, CSS, JavaScript (ES6+), React
 - **API**: OpenWeatherMap API for weather data
 - **Deployment**: Netlify for hosting
 
